@@ -200,9 +200,9 @@ public abstract class AbstractFixJavadocMojo
     private static final String CLIRR_MAVEN_PLUGIN_ARTIFACTID = "clirr-maven-plugin";
 
     /**
-     * The latest Clirr Maven plugin version <code>2.2.2</code> *
+     * The latest Clirr Maven plugin version <code>2.8</code> *
      */
-    private static final String CLIRR_MAVEN_PLUGIN_VERSION = "2.2.2";
+    private static final String CLIRR_MAVEN_PLUGIN_VERSION = "2.8";
 
     /**
      * The Clirr Maven plugin goal <code>check</code> *
